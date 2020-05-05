@@ -1,3 +1,3 @@
-# MyPythonCode
+# Meus códigos
 
-Um apanhado geral de códigos em python. Estou tentando incluir a parte de modelagem.
+Um apanhado geral dos códigos.
