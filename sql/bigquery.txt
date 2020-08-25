@@ -1,0 +1,13 @@
+----------------------------------------------------------------------------------
+-- Códigos para facilitar o uso do Big Query
+----------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------
+    -- GOOGLE CLOUD PLATFORM
+----------------------------------------------------------------------------------
+-- para saber as bases que estão no schema:
+select * from `project_id.dataset.schema.tables`; -- ver as tabelas do schema
+select * from `project_id.dataset.schema.columns`; -- ver as colunas das tabelas do schema
+
+-- para acessar a tabela do juro
+select * from `project_id.dataset.table_name`
