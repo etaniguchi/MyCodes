@@ -1,3 +1,3 @@
-# Meus códigos
+# Códigos para auxiliar
 
-Um apanhado geral dos códigos.
+Um apanhado geral dos códigos do python e sql.
